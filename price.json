@@ -1,0 +1,22 @@
+[
+    {
+        "hosting": "Bayi",
+        "old_price": "19.000",
+        "new_price": "14.900"
+    },
+    {
+        "hosting": "Pelajar",
+        "old_price": "46.900",
+        "new_price": "23.450"
+    },
+    {
+        "hosting": "Personal",
+        "old_price": "58.900",
+        "new_price": "38.900"
+    },
+    {
+        "hosting": "Bisnis",
+        "old_price": "109.000",
+        "new_price": "65.900"
+    }
+]

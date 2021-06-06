@@ -1,0 +1,106 @@
+@font-face {
+	font-family: Montserrat;
+	src: url(assets/fonts/montserrat/Montserrat-Black.otf);
+	font-weight: 600;
+}
+
+@font-face {
+	font-family: Montserrat;
+	src: url(assets/fonts/montserrat/Montserrat-Bold.otf);
+	font-weight: 700;
+}
+
+@font-face {
+	font-family: Montserrat;
+	src: url(assets/fonts/montserrat/Montserrat-Hairline.otf);
+	font-weight: 200;
+}
+
+@font-face {
+	font-family: Montserrat;
+	src: url(assets/fonts/montserrat/Montserrat-Light.otf);
+	font-weight: 300;
+}
+
+@font-face {
+	font-family: Montserrat;
+	src: url(assets/fonts/montserrat/Montserrat-Regular.otf);
+	font-weight: 400;
+}
+
+@font-face {
+	font-family: Roboto;
+	src: url(assets/fonts/roboto/Roboto-Black.ttf);
+	font-weight: 600;
+}
+
+@font-face {
+	font-family: Roboto;
+	src: url(assets/fonts/roboto/Roboto-Bold.ttf);
+	font-weight: 700;
+}
+
+@font-face {
+	font-family: Roboto;
+	src: url(assets/fonts/roboto/Roboto-Medium.ttf);
+	font-weight: 500;
+}
+
+@font-face {
+	font-family: Roboto;
+	src: url(assets/fonts/roboto/Roboto-Regular.ttf);
+	font-weight: 400;
+}
+
+@font-face {
+	font-family: Roboto;
+	src: url(assets/fonts/roboto/Roboto-Light.ttf);
+	font-weight: 300;
+}
+
+@font-face {
+	font-family: Roboto;
+	src: url(assets/fonts/roboto/Roboto-Thin.ttf);
+	font-weight: 200;
+}
+
+@font-face {
+	font-family: Roboto;
+	src: url(assets/fonts/roboto/Roboto-BlackItalic.ttf);
+	font-weight: 600;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: Roboto;
+	src: url(assets/fonts/roboto/Roboto-BoldItalic.otf);
+	font-weight: 700;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: Roboto;
+	src: url(assets/fonts/roboto/Roboto-MediumItalic.otf);
+	font-weight: 500;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: Roboto;
+	src: url(assets/fonts/roboto/Roboto-Italic.otf);
+	font-weight: 400;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: Roboto;
+	src: url(assets/fonts/roboto/Roboto-LightItalic.otf);
+	font-weight: 300;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: Roboto;
+	src: url(assets/fonts/roboto/Roboto-ThinItalic.otf);
+	font-weight: 200;
+}
